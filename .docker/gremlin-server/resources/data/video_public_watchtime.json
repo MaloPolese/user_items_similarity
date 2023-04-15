@@ -1,0 +1,2178 @@
+[
+  {
+    "index": 1,
+    "userId": "b8d26a9a-af81-4cec-abf9-1bac3101c8d0",
+    "watchedSeconds": 695,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 2,
+    "userId": "3398be8b-6529-497f-807f-9c9c284ae82a",
+    "watchedSeconds": 443.13,
+    "watchedPercent": 0.36,
+    "isWatched": false,
+    "videoId": "2521b980-3a9b-467f-8ecb-0c31a05453e4"
+  },
+  {
+    "index": 3,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 0,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "d1dc50e4-5129-41a6-ad71-afd6bb94fa79"
+  },
+  {
+    "index": 4,
+    "userId": "3398be8b-6529-497f-807f-9c9c284ae82a",
+    "watchedSeconds": 50.35,
+    "watchedPercent": 0.42,
+    "isWatched": false,
+    "videoId": "50d4ec43-4e66-48ff-9149-d6678243815c"
+  },
+  {
+    "index": 5,
+    "userId": "f697eba1-4e4b-4a6e-bb7c-9491901cb308",
+    "watchedSeconds": 206.42,
+    "watchedPercent": 0.87,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 6,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 40.73,
+    "watchedPercent": 0.34,
+    "isWatched": false,
+    "videoId": "50d4ec43-4e66-48ff-9149-d6678243815c"
+  },
+  {
+    "index": 7,
+    "userId": "c2027b1d-600c-4499-9c70-edc54b8a0de8",
+    "watchedSeconds": 23.71,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "888cc60b-bae0-4eae-b914-58bcafa7f5de"
+  },
+  {
+    "index": 8,
+    "userId": "37d1d3e2-1012-40f5-a763-16c9c7023f60",
+    "watchedSeconds": 587.29,
+    "watchedPercent": 0.22,
+    "isWatched": false,
+    "videoId": "a09e29de-3287-46d4-a5cd-3f3d81166839"
+  },
+  {
+    "index": 9,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 468,
+    "watchedPercent": 0.67,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 10,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 0,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "fd0b4d07-4f4e-4303-853f-08e4bd9ddff6"
+  },
+  {
+    "index": 11,
+    "userId": "b8d26a9a-af81-4cec-abf9-1bac3101c8d0",
+    "watchedSeconds": 99.99,
+    "watchedPercent": 0.97,
+    "isWatched": true,
+    "videoId": "bb748f46-72f6-4bbf-92be-87ae78f0ffdd"
+  },
+  {
+    "index": 12,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 0,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "765b0fa8-e9b2-4dee-85d5-f8fba32f842e"
+  },
+  {
+    "index": 13,
+    "userId": "b8d26a9a-af81-4cec-abf9-1bac3101c8d0",
+    "watchedSeconds": 126.52,
+    "watchedPercent": 0.91,
+    "isWatched": true,
+    "videoId": "105974d1-19f1-4883-b607-5d83e02f2572"
+  },
+  {
+    "index": 14,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 554.86,
+    "watchedPercent": 0.7,
+    "isWatched": false,
+    "videoId": "9912856d-f2f4-47a6-a161-04aea10240e8"
+  },
+  {
+    "index": 15,
+    "userId": "b8d26a9a-af81-4cec-abf9-1bac3101c8d0",
+    "watchedSeconds": 128.17,
+    "watchedPercent": 0.54,
+    "isWatched": true,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 16,
+    "userId": "32ac6d4e-f191-4f61-89d0-c674c5274e34",
+    "watchedSeconds": 35.81,
+    "watchedPercent": 0.05,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 17,
+    "userId": "37d1d3e2-1012-40f5-a763-16c9c7023f60",
+    "watchedSeconds": 1079.81,
+    "watchedPercent": 0.13,
+    "isWatched": false,
+    "videoId": "371fb1d1-79b1-4840-b630-707d9579f3f5"
+  },
+  {
+    "index": 18,
+    "userId": "78746e9c-e8a0-420c-883b-0fe78fe4e8ba",
+    "watchedSeconds": 160.43,
+    "watchedPercent": 0.68,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 19,
+    "userId": "0b0a843b-09f2-4f70-9928-8022fc3f873b",
+    "watchedSeconds": 11.47,
+    "watchedPercent": 0.04,
+    "isWatched": true,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 20,
+    "userId": "b3067f82-2220-495d-9dc5-afc6985e3013",
+    "watchedSeconds": 154.09,
+    "watchedPercent": 0.65,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 21,
+    "userId": "78746e9c-e8a0-420c-883b-0fe78fe4e8ba",
+    "watchedSeconds": 107.21,
+    "watchedPercent": 0.13,
+    "isWatched": false,
+    "videoId": "d1dc50e4-5129-41a6-ad71-afd6bb94fa79"
+  },
+  {
+    "index": 22,
+    "userId": "32ac6d4e-f191-4f61-89d0-c674c5274e34",
+    "watchedSeconds": 1371.53,
+    "watchedPercent": 0.78,
+    "isWatched": true,
+    "videoId": "d4de9db3-6802-4432-aa86-486dedbe69f3"
+  },
+  {
+    "index": 23,
+    "userId": "32ac6d4e-f191-4f61-89d0-c674c5274e34",
+    "watchedSeconds": 152.67,
+    "watchedPercent": 0.86,
+    "isWatched": false,
+    "videoId": "c844dcdc-0e81-4519-8137-208990ce6a0d"
+  },
+  {
+    "index": 24,
+    "userId": "0b0a843b-09f2-4f70-9928-8022fc3f873b",
+    "watchedSeconds": 77,
+    "watchedPercent": 0.32,
+    "isWatched": true,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 25,
+    "userId": "0e802a9b-d5ec-453d-800e-219dadb83680",
+    "watchedSeconds": 179.61,
+    "watchedPercent": 0.14,
+    "isWatched": false,
+    "videoId": "2521b980-3a9b-467f-8ecb-0c31a05453e4"
+  },
+  {
+    "index": 26,
+    "userId": "b8d26a9a-af81-4cec-abf9-1bac3101c8d0",
+    "watchedSeconds": 852.62,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "d1dc50e4-5129-41a6-ad71-afd6bb94fa79"
+  },
+  {
+    "index": 27,
+    "userId": "0e802a9b-d5ec-453d-800e-219dadb83680",
+    "watchedSeconds": 74.91,
+    "watchedPercent": 0.11,
+    "isWatched": true,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 28,
+    "userId": "c0049763-a6a3-4a81-a836-92b4f412d39a",
+    "watchedSeconds": 30.16,
+    "watchedPercent": 0.05,
+    "isWatched": false,
+    "videoId": "ea22f89d-1bea-45f7-8516-8bf1c6a6659a"
+  },
+  {
+    "index": 29,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 266.65,
+    "watchedPercent": 0.82,
+    "isWatched": false,
+    "videoId": "ab0da214-fa56-4ba1-b718-f9879472d7e4"
+  },
+  {
+    "index": 30,
+    "userId": "cf693a29-cead-4b4d-ac8f-e4c2ed0ee0c5",
+    "watchedSeconds": 261.6,
+    "watchedPercent": 0.24,
+    "isWatched": false,
+    "videoId": "47cce516-abac-4ab8-8983-7d37f4002f9a"
+  },
+  {
+    "index": 31,
+    "userId": "3a1c6b9f-4315-4c2e-a741-7d580e149491",
+    "watchedSeconds": 293.06,
+    "watchedPercent": 0.96,
+    "isWatched": true,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 32,
+    "userId": "cf693a29-cead-4b4d-ac8f-e4c2ed0ee0c5",
+    "watchedSeconds": 75,
+    "watchedPercent": 0.32,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 33,
+    "userId": "0e802a9b-d5ec-453d-800e-219dadb83680",
+    "watchedSeconds": 225.87,
+    "watchedPercent": 0.95,
+    "isWatched": true,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 34,
+    "userId": "c2027b1d-600c-4499-9c70-edc54b8a0de8",
+    "watchedSeconds": 252.87,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "d38070ab-3ab4-46c0-80f8-11f176f49a87"
+  },
+  {
+    "index": 35,
+    "userId": "8c11ece9-5c7b-4072-abcf-dec2eb2d54f3",
+    "watchedSeconds": 305.24,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 36,
+    "userId": "c2027b1d-600c-4499-9c70-edc54b8a0de8",
+    "watchedSeconds": 166.92,
+    "watchedPercent": 0.73,
+    "isWatched": false,
+    "videoId": "94ac0a07-1ff5-4a55-bb38-80f4b3d915f5"
+  },
+  {
+    "index": 37,
+    "userId": "0b0a843b-09f2-4f70-9928-8022fc3f873b",
+    "watchedSeconds": 12.73,
+    "watchedPercent": 0.04,
+    "isWatched": true,
+    "videoId": "ab0da214-fa56-4ba1-b718-f9879472d7e4"
+  },
+  {
+    "index": 38,
+    "userId": "138b9955-b29b-4ac6-a09d-41b631cc2c6c",
+    "watchedSeconds": 931.07,
+    "watchedPercent": 0.3,
+    "isWatched": false,
+    "videoId": "7fb1da9d-f787-475c-a5f9-ccc36bc728d5"
+  },
+  {
+    "index": 39,
+    "userId": "8c11ece9-5c7b-4072-abcf-dec2eb2d54f3",
+    "watchedSeconds": 213.93,
+    "watchedPercent": 0.66,
+    "isWatched": false,
+    "videoId": "ab0da214-fa56-4ba1-b718-f9879472d7e4"
+  },
+  {
+    "index": 40,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 216.44,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "939f2e49-9a8a-487f-b048-7d9a5729a705"
+  },
+  {
+    "index": 41,
+    "userId": "25b91922-c27d-4e32-8862-0555fddd3aa8",
+    "watchedSeconds": 2160.96,
+    "watchedPercent": 0.38,
+    "isWatched": false,
+    "videoId": "acd9e6fe-0e3b-4eb1-bec5-78ac90866e0c"
+  },
+  {
+    "index": 42,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 749.59,
+    "watchedPercent": 0.87,
+    "isWatched": false,
+    "videoId": "9b529abf-239c-4f04-9414-c38bfafcf788"
+  },
+  {
+    "index": 43,
+    "userId": "0e802a9b-d5ec-453d-800e-219dadb83680",
+    "watchedSeconds": 297.52,
+    "watchedPercent": 0.27,
+    "isWatched": false,
+    "videoId": "47cce516-abac-4ab8-8983-7d37f4002f9a"
+  },
+  {
+    "index": 44,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 139.7,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "105974d1-19f1-4883-b607-5d83e02f2572"
+  },
+  {
+    "index": 45,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 305.25,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 46,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 192.76,
+    "watchedPercent": 0.28,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 47,
+    "userId": "c0049763-a6a3-4a81-a836-92b4f412d39a",
+    "watchedSeconds": 101.61,
+    "watchedPercent": 0.43,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 48,
+    "userId": "c0049763-a6a3-4a81-a836-92b4f412d39a",
+    "watchedSeconds": 23.03,
+    "watchedPercent": 0.09,
+    "isWatched": false,
+    "videoId": "d38070ab-3ab4-46c0-80f8-11f176f49a87"
+  },
+  {
+    "index": 49,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 77.51,
+    "watchedPercent": 0.23,
+    "isWatched": false,
+    "videoId": "9e5b5acf-da76-4b1c-89d9-e3ba1a1f71cc"
+  },
+  {
+    "index": 50,
+    "userId": "b8d26a9a-af81-4cec-abf9-1bac3101c8d0",
+    "watchedSeconds": 22.83,
+    "watchedPercent": 0.07,
+    "isWatched": false,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 51,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 861,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "9b529abf-239c-4f04-9414-c38bfafcf788"
+  },
+  {
+    "index": 52,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 235.9,
+    "watchedPercent": 0.99,
+    "isWatched": true,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 53,
+    "userId": "b8d26a9a-af81-4cec-abf9-1bac3101c8d0",
+    "watchedSeconds": 5.23,
+    "watchedPercent": 0.01,
+    "isWatched": false,
+    "videoId": "765b0fa8-e9b2-4dee-85d5-f8fba32f842e"
+  },
+  {
+    "index": 54,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 47.75,
+    "watchedPercent": 0.07,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 55,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 76.3,
+    "watchedPercent": 0.32,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 56,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 64.52,
+    "watchedPercent": 0.46,
+    "isWatched": false,
+    "videoId": "105974d1-19f1-4883-b607-5d83e02f2572"
+  },
+  {
+    "index": 57,
+    "userId": "c2027b1d-600c-4499-9c70-edc54b8a0de8",
+    "watchedSeconds": 325.08,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "ab0da214-fa56-4ba1-b718-f9879472d7e4"
+  },
+  {
+    "index": 58,
+    "userId": "c0049763-a6a3-4a81-a836-92b4f412d39a",
+    "watchedSeconds": 8.66,
+    "watchedPercent": 0.03,
+    "isWatched": false,
+    "videoId": "ab0da214-fa56-4ba1-b718-f9879472d7e4"
+  },
+  {
+    "index": 59,
+    "userId": "3a1c6b9f-4315-4c2e-a741-7d580e149491",
+    "watchedSeconds": 237.38,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 60,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 177.88,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "c844dcdc-0e81-4519-8137-208990ce6a0d"
+  },
+  {
+    "index": 61,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 231.22,
+    "watchedPercent": 0.76,
+    "isWatched": false,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 62,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 68,
+    "watchedPercent": 0.12,
+    "isWatched": false,
+    "videoId": "ea22f89d-1bea-45f7-8516-8bf1c6a6659a"
+  },
+  {
+    "index": 63,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 172.82,
+    "watchedPercent": 0.97,
+    "isWatched": true,
+    "videoId": "c844dcdc-0e81-4519-8137-208990ce6a0d"
+  },
+  {
+    "index": 64,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 159.37,
+    "watchedPercent": 0.7,
+    "isWatched": false,
+    "videoId": "94ac0a07-1ff5-4a55-bb38-80f4b3d915f5"
+  },
+  {
+    "index": 65,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 109.88,
+    "watchedPercent": 0.92,
+    "isWatched": true,
+    "videoId": "50d4ec43-4e66-48ff-9149-d6678243815c"
+  },
+  {
+    "index": 66,
+    "userId": "436aef8d-44f3-4dff-b7f3-ed3e8682f7b5",
+    "watchedSeconds": 3158.53,
+    "watchedPercent": 0.55,
+    "isWatched": false,
+    "videoId": "acd9e6fe-0e3b-4eb1-bec5-78ac90866e0c"
+  },
+  {
+    "index": 67,
+    "userId": "c0049763-a6a3-4a81-a836-92b4f412d39a",
+    "watchedSeconds": 15.41,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "acd9e6fe-0e3b-4eb1-bec5-78ac90866e0c"
+  },
+  {
+    "index": 68,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 8.78,
+    "watchedPercent": 0.07,
+    "isWatched": false,
+    "videoId": "50d4ec43-4e66-48ff-9149-d6678243815c"
+  },
+  {
+    "index": 69,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 28.59,
+    "watchedPercent": 0.24,
+    "isWatched": false,
+    "videoId": "50d4ec43-4e66-48ff-9149-d6678243815c"
+  },
+  {
+    "index": 70,
+    "userId": "92e0bccd-f237-40a1-9ae7-7344dd708420",
+    "watchedSeconds": 69.05,
+    "watchedPercent": 0.45,
+    "isWatched": false,
+    "videoId": "7e25dd5b-312c-4117-9829-333c3581876e"
+  },
+  {
+    "index": 71,
+    "userId": "92e0bccd-f237-40a1-9ae7-7344dd708420",
+    "watchedSeconds": 1259.5,
+    "watchedPercent": 0.49,
+    "isWatched": false,
+    "videoId": "16a968f1-bfac-45f0-8afd-93df23180c2e"
+  },
+  {
+    "index": 72,
+    "userId": "92e0bccd-f237-40a1-9ae7-7344dd708420",
+    "watchedSeconds": 77.13,
+    "watchedPercent": 0.07,
+    "isWatched": false,
+    "videoId": "47cce516-abac-4ab8-8983-7d37f4002f9a"
+  },
+  {
+    "index": 73,
+    "userId": "25b91922-c27d-4e32-8862-0555fddd3aa8",
+    "watchedSeconds": 1111.38,
+    "watchedPercent": 0.43,
+    "isWatched": false,
+    "videoId": "16a968f1-bfac-45f0-8afd-93df23180c2e"
+  },
+  {
+    "index": 74,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 304.72,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "bdd4a700-d0da-48a7-9a9b-752813bcc718"
+  },
+  {
+    "index": 75,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 325.08,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "ab0da214-fa56-4ba1-b718-f9879472d7e4"
+  },
+  {
+    "index": 76,
+    "userId": "8c11ece9-5c7b-4072-abcf-dec2eb2d54f3",
+    "watchedSeconds": 207.68,
+    "watchedPercent": 0.96,
+    "isWatched": true,
+    "videoId": "939f2e49-9a8a-487f-b048-7d9a5729a705"
+  },
+  {
+    "index": 77,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 234.66,
+    "watchedPercent": 0.93,
+    "isWatched": true,
+    "videoId": "d38070ab-3ab4-46c0-80f8-11f176f49a87"
+  },
+  {
+    "index": 78,
+    "userId": "cf693a29-cead-4b4d-ac8f-e4c2ed0ee0c5",
+    "watchedSeconds": 8.43,
+    "watchedPercent": 0.03,
+    "isWatched": false,
+    "videoId": "d38070ab-3ab4-46c0-80f8-11f176f49a87"
+  },
+  {
+    "index": 79,
+    "userId": "8febf981-b663-4120-b58d-bb2b43f117c3",
+    "watchedSeconds": 1007.01,
+    "watchedPercent": 0.12,
+    "isWatched": false,
+    "videoId": "371fb1d1-79b1-4840-b630-707d9579f3f5"
+  },
+  {
+    "index": 80,
+    "userId": "2233fa7f-f457-4c63-a4d1-78d77797034f",
+    "watchedSeconds": 22,
+    "watchedPercent": 0.1,
+    "isWatched": false,
+    "videoId": "939f2e49-9a8a-487f-b048-7d9a5729a705"
+  },
+  {
+    "index": 81,
+    "userId": "b8d26a9a-af81-4cec-abf9-1bac3101c8d0",
+    "watchedSeconds": 0,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "ab0da214-fa56-4ba1-b718-f9879472d7e4"
+  },
+  {
+    "index": 82,
+    "userId": "32ac6d4e-f191-4f61-89d0-c674c5274e34",
+    "watchedSeconds": 5.5,
+    "watchedPercent": 0.01,
+    "isWatched": false,
+    "videoId": "4eb32c86-78dc-4de0-8b1b-8ac242af6eee"
+  },
+  {
+    "index": 83,
+    "userId": "c2027b1d-600c-4499-9c70-edc54b8a0de8",
+    "watchedSeconds": 301.77,
+    "watchedPercent": 0.99,
+    "isWatched": true,
+    "videoId": "bdd4a700-d0da-48a7-9a9b-752813bcc718"
+  },
+  {
+    "index": 84,
+    "userId": "436aef8d-44f3-4dff-b7f3-ed3e8682f7b5",
+    "watchedSeconds": 1615.26,
+    "watchedPercent": 0.6,
+    "isWatched": false,
+    "videoId": "a09e29de-3287-46d4-a5cd-3f3d81166839"
+  },
+  {
+    "index": 85,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 227.71,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "94ac0a07-1ff5-4a55-bb38-80f4b3d915f5"
+  },
+  {
+    "index": 86,
+    "userId": "251d3653-a540-44d7-8ffb-2c67be510cdd",
+    "watchedSeconds": 148.59,
+    "watchedPercent": 0.96,
+    "isWatched": true,
+    "videoId": "7e25dd5b-312c-4117-9829-333c3581876e"
+  },
+  {
+    "index": 87,
+    "userId": "cf693a29-cead-4b4d-ac8f-e4c2ed0ee0c5",
+    "watchedSeconds": 56.02,
+    "watchedPercent": 0.17,
+    "isWatched": false,
+    "videoId": "ab0da214-fa56-4ba1-b718-f9879472d7e4"
+  },
+  {
+    "index": 88,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 9.31,
+    "watchedPercent": 0.04,
+    "isWatched": false,
+    "videoId": "d38070ab-3ab4-46c0-80f8-11f176f49a87"
+  },
+  {
+    "index": 89,
+    "userId": "c2027b1d-600c-4499-9c70-edc54b8a0de8",
+    "watchedSeconds": 9.07,
+    "watchedPercent": 0.02,
+    "isWatched": false,
+    "videoId": "4eb32c86-78dc-4de0-8b1b-8ac242af6eee"
+  },
+  {
+    "index": 90,
+    "userId": "c2627c3b-43ba-495e-ac2d-c0489ccbcdd2",
+    "watchedSeconds": 2312.06,
+    "watchedPercent": 0.86,
+    "isWatched": false,
+    "videoId": "a09e29de-3287-46d4-a5cd-3f3d81166839"
+  },
+  {
+    "index": 91,
+    "userId": "2203dfba-ae51-4078-ba20-efdd90c35656",
+    "watchedSeconds": 75,
+    "watchedPercent": 0.32,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 92,
+    "userId": "62bca3c3-b271-40fd-ac1f-5dfc54e1d933",
+    "watchedSeconds": 28.96,
+    "watchedPercent": 0.1,
+    "isWatched": false,
+    "videoId": "bdd4a700-d0da-48a7-9a9b-752813bcc718"
+  },
+  {
+    "index": 93,
+    "userId": "92e0bccd-f237-40a1-9ae7-7344dd708420",
+    "watchedSeconds": 1486.05,
+    "watchedPercent": 0.84,
+    "isWatched": false,
+    "videoId": "d4de9db3-6802-4432-aa86-486dedbe69f3"
+  },
+  {
+    "index": 94,
+    "userId": "19af2ebb-8b54-4c55-9a6b-ed80f0f524c9",
+    "watchedSeconds": 12.48,
+    "watchedPercent": 0.04,
+    "isWatched": false,
+    "videoId": "ab0da214-fa56-4ba1-b718-f9879472d7e4"
+  },
+  {
+    "index": 95,
+    "userId": "0e802a9b-d5ec-453d-800e-219dadb83680",
+    "watchedSeconds": 27.04,
+    "watchedPercent": 0.09,
+    "isWatched": false,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 96,
+    "userId": "c52baa46-3767-4615-835b-b5104c1da004",
+    "watchedSeconds": 8.36,
+    "watchedPercent": 0.03,
+    "isWatched": false,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 97,
+    "userId": "028782b9-f8c3-41e0-8536-6fab179090e7",
+    "watchedSeconds": 6.58,
+    "watchedPercent": 0.89,
+    "isWatched": false,
+    "videoId": "a4fdc120-c105-4166-99e2-cc4a55511ead"
+  },
+  {
+    "index": 98,
+    "userId": "31832a15-8c54-4893-a3f1-3cea353d6976",
+    "watchedSeconds": 7.43,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "a4fdc120-c105-4166-99e2-cc4a55511ead"
+  },
+  {
+    "index": 99,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 88.82,
+    "watchedPercent": 0.94,
+    "isWatched": true,
+    "videoId": "59974664-312a-4263-a5ac-b30fcd96a543"
+  },
+  {
+    "index": 100,
+    "userId": "436aef8d-44f3-4dff-b7f3-ed3e8682f7b5",
+    "watchedSeconds": 0,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "a4fdc120-c105-4166-99e2-cc4a55511ead"
+  },
+  {
+    "index": 101,
+    "userId": "6e48aaa9-8f47-4b07-b072-65063cb13338",
+    "watchedSeconds": 7.43,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "a4fdc120-c105-4166-99e2-cc4a55511ead"
+  },
+  {
+    "index": 102,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 7.43,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "a4fdc120-c105-4166-99e2-cc4a55511ead"
+  },
+  {
+    "index": 103,
+    "userId": "b8d26a9a-af81-4cec-abf9-1bac3101c8d0",
+    "watchedSeconds": 0,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "a4fdc120-c105-4166-99e2-cc4a55511ead"
+  },
+  {
+    "index": 104,
+    "userId": "5cf7fe1b-ef14-4bbd-a115-92129a9bf3e2",
+    "watchedSeconds": 119.17,
+    "watchedPercent": 0.17,
+    "isWatched": false,
+    "videoId": "0af9a08c-10f2-45f7-bd50-fecc6c9634d9"
+  },
+  {
+    "index": 105,
+    "userId": "0b0a843b-09f2-4f70-9928-8022fc3f873b",
+    "watchedSeconds": 67.79,
+    "watchedPercent": 0.2,
+    "isWatched": false,
+    "videoId": "9e5b5acf-da76-4b1c-89d9-e3ba1a1f71cc"
+  },
+  {
+    "index": 106,
+    "userId": "62bca3c3-b271-40fd-ac1f-5dfc54e1d933",
+    "watchedSeconds": 97.12,
+    "watchedPercent": 0.7,
+    "isWatched": false,
+    "videoId": "105974d1-19f1-4883-b607-5d83e02f2572"
+  },
+  {
+    "index": 107,
+    "userId": "c4122729-6e52-4949-82d9-73ca0ef8f3bb",
+    "watchedSeconds": 15.96,
+    "watchedPercent": 0.02,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 108,
+    "userId": "0b0a843b-09f2-4f70-9928-8022fc3f873b",
+    "watchedSeconds": 7.39,
+    "watchedPercent": 0.99,
+    "isWatched": true,
+    "videoId": "a4fdc120-c105-4166-99e2-cc4a55511ead"
+  },
+  {
+    "index": 109,
+    "userId": "b8d26a9a-af81-4cec-abf9-1bac3101c8d0",
+    "watchedSeconds": 0,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "59974664-312a-4263-a5ac-b30fcd96a543"
+  },
+  {
+    "index": 110,
+    "userId": "62bca3c3-b271-40fd-ac1f-5dfc54e1d933",
+    "watchedSeconds": 225.94,
+    "watchedPercent": 0.95,
+    "isWatched": true,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 111,
+    "userId": "100032e5-f620-43e2-92e8-48c816ea0f40",
+    "watchedSeconds": 48.97,
+    "watchedPercent": 0.07,
+    "isWatched": false,
+    "videoId": "0af9a08c-10f2-45f7-bd50-fecc6c9634d9"
+  },
+  {
+    "index": 112,
+    "userId": "62bca3c3-b271-40fd-ac1f-5dfc54e1d933",
+    "watchedSeconds": 17.86,
+    "watchedPercent": 0.03,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 113,
+    "userId": "f35b208b-baa9-45c5-b06d-26cef090dcfd",
+    "watchedSeconds": 119.37,
+    "watchedPercent": 0.17,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 114,
+    "userId": "3398be8b-6529-497f-807f-9c9c284ae82a",
+    "watchedSeconds": 7.39,
+    "watchedPercent": 0.99,
+    "isWatched": true,
+    "videoId": "a4fdc120-c105-4166-99e2-cc4a55511ead"
+  },
+  {
+    "index": 115,
+    "userId": "0b0a843b-09f2-4f70-9928-8022fc3f873b",
+    "watchedSeconds": 123.78,
+    "watchedPercent": 0.11,
+    "isWatched": false,
+    "videoId": "47cce516-abac-4ab8-8983-7d37f4002f9a"
+  },
+  {
+    "index": 116,
+    "userId": "adb5a45b-1b82-42f2-b0be-7d9f4d02d153",
+    "watchedSeconds": 7.41,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "a4fdc120-c105-4166-99e2-cc4a55511ead"
+  },
+  {
+    "index": 117,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 232,
+    "watchedPercent": 0.98,
+    "isWatched": true,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 118,
+    "userId": "62bca3c3-b271-40fd-ac1f-5dfc54e1d933",
+    "watchedSeconds": 6.41,
+    "watchedPercent": 0.02,
+    "isWatched": false,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 119,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 398.22,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "4eb32c86-78dc-4de0-8b1b-8ac242af6eee"
+  },
+  {
+    "index": 120,
+    "userId": "f35b208b-baa9-45c5-b06d-26cef090dcfd",
+    "watchedSeconds": 112.84,
+    "watchedPercent": 0.48,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 121,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 9.86,
+    "watchedPercent": 0.02,
+    "isWatched": false,
+    "videoId": "765b0fa8-e9b2-4dee-85d5-f8fba32f842e"
+  },
+  {
+    "index": 122,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 0,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 123,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 268.15,
+    "watchedPercent": 0.87,
+    "isWatched": false,
+    "videoId": "abefe915-2287-4242-807f-ecfc0009aa58"
+  },
+  {
+    "index": 124,
+    "userId": "62bca3c3-b271-40fd-ac1f-5dfc54e1d933",
+    "watchedSeconds": 158.23,
+    "watchedPercent": 0.22,
+    "isWatched": false,
+    "videoId": "0af9a08c-10f2-45f7-bd50-fecc6c9634d9"
+  },
+  {
+    "index": 125,
+    "userId": "8fc1fd65-e9e1-4a4c-80b1-e5c231f74859",
+    "watchedSeconds": 39.46,
+    "watchedPercent": 0.06,
+    "isWatched": false,
+    "videoId": "0af9a08c-10f2-45f7-bd50-fecc6c9634d9"
+  },
+  {
+    "index": 126,
+    "userId": "c0049763-a6a3-4a81-a836-92b4f412d39a",
+    "watchedSeconds": 17.72,
+    "watchedPercent": 0.14,
+    "isWatched": false,
+    "videoId": "7ebf9162-05d1-4524-8c8b-19b6256396e0"
+  },
+  {
+    "index": 127,
+    "userId": "436aef8d-44f3-4dff-b7f3-ed3e8682f7b5",
+    "watchedSeconds": 2786.34,
+    "watchedPercent": 0.67,
+    "isWatched": false,
+    "videoId": "a0bfae8e-fd76-44a2-ad51-8f1feb8f6296"
+  },
+  {
+    "index": 128,
+    "userId": "c2027b1d-600c-4499-9c70-edc54b8a0de8",
+    "watchedSeconds": 0,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "0af9a08c-10f2-45f7-bd50-fecc6c9634d9"
+  },
+  {
+    "index": 129,
+    "userId": "f92b07a5-65b3-4fce-935f-9ca24118b49d",
+    "watchedSeconds": 142.84,
+    "watchedPercent": 0.6,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 130,
+    "userId": "6a154127-8589-4f0b-9bd6-8f218240cc6a",
+    "watchedSeconds": 188.23,
+    "watchedPercent": 0.79,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 131,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 36.06,
+    "watchedPercent": 0.25,
+    "isWatched": false,
+    "videoId": "9e13c21b-234a-4346-bec0-894cd0eae3ad"
+  },
+  {
+    "index": 132,
+    "userId": "c52baa46-3767-4615-835b-b5104c1da004",
+    "watchedSeconds": 6.86,
+    "watchedPercent": 0.01,
+    "isWatched": false,
+    "videoId": "0af9a08c-10f2-45f7-bd50-fecc6c9634d9"
+  },
+  {
+    "index": 133,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 414.09,
+    "watchedPercent": 0.28,
+    "isWatched": false,
+    "videoId": "0ca563bd-cb27-4cba-b6f3-5de02e6090a1"
+  },
+  {
+    "index": 134,
+    "userId": "25b91922-c27d-4e32-8862-0555fddd3aa8",
+    "watchedSeconds": 693.96,
+    "watchedPercent": 0.81,
+    "isWatched": false,
+    "videoId": "d1dc50e4-5129-41a6-ad71-afd6bb94fa79"
+  },
+  {
+    "index": 135,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 706.89,
+    "watchedPercent": 0.82,
+    "isWatched": false,
+    "videoId": "9b529abf-239c-4f04-9414-c38bfafcf788"
+  },
+  {
+    "index": 136,
+    "userId": "b8d26a9a-af81-4cec-abf9-1bac3101c8d0",
+    "watchedSeconds": 332.91,
+    "watchedPercent": 0.97,
+    "isWatched": true,
+    "videoId": "9e5b5acf-da76-4b1c-89d9-e3ba1a1f71cc"
+  },
+  {
+    "index": 137,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 813,
+    "watchedPercent": 0.3,
+    "isWatched": false,
+    "videoId": "a09e29de-3287-46d4-a5cd-3f3d81166839"
+  },
+  {
+    "index": 138,
+    "userId": "f35b208b-baa9-45c5-b06d-26cef090dcfd",
+    "watchedSeconds": 341.77,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "9e5b5acf-da76-4b1c-89d9-e3ba1a1f71cc"
+  },
+  {
+    "index": 139,
+    "userId": "25b91922-c27d-4e32-8862-0555fddd3aa8",
+    "watchedSeconds": 149.26,
+    "watchedPercent": 0.28,
+    "isWatched": false,
+    "videoId": "765b0fa8-e9b2-4dee-85d5-f8fba32f842e"
+  },
+  {
+    "index": 140,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 300.49,
+    "watchedPercent": 0.99,
+    "isWatched": true,
+    "videoId": "bdd4a700-d0da-48a7-9a9b-752813bcc718"
+  },
+  {
+    "index": 141,
+    "userId": "f35b208b-baa9-45c5-b06d-26cef090dcfd",
+    "watchedSeconds": 87.35,
+    "watchedPercent": 0.12,
+    "isWatched": false,
+    "videoId": "0af9a08c-10f2-45f7-bd50-fecc6c9634d9"
+  },
+  {
+    "index": 142,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 536.96,
+    "watchedPercent": 0.77,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 143,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 1865.94,
+    "watchedPercent": 0.45,
+    "isWatched": false,
+    "videoId": "a0bfae8e-fd76-44a2-ad51-8f1feb8f6296"
+  },
+  {
+    "index": 144,
+    "userId": "25b91922-c27d-4e32-8862-0555fddd3aa8",
+    "watchedSeconds": 19.29,
+    "watchedPercent": 0.16,
+    "isWatched": false,
+    "videoId": "50d4ec43-4e66-48ff-9149-d6678243815c"
+  },
+  {
+    "index": 145,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 74.45,
+    "watchedPercent": 0.45,
+    "isWatched": false,
+    "videoId": "f5388b8e-0616-4d00-9923-e4e78cbdd941"
+  },
+  {
+    "index": 146,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 363.35,
+    "watchedPercent": 0.49,
+    "isWatched": false,
+    "videoId": "a4032723-7d1a-4abc-8fd6-b38b261c99ff"
+  },
+  {
+    "index": 147,
+    "userId": "6aaedfb0-32be-4123-9f80-e7193824c273",
+    "watchedSeconds": 96.64,
+    "watchedPercent": 0.41,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 148,
+    "userId": "6a154127-8589-4f0b-9bd6-8f218240cc6a",
+    "watchedSeconds": 29.51,
+    "watchedPercent": 0.04,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 149,
+    "userId": "7932018e-c753-470a-870b-8252b1c3d1e8",
+    "watchedSeconds": 17.43,
+    "watchedPercent": 0.03,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 150,
+    "userId": "7932018e-c753-470a-870b-8252b1c3d1e8",
+    "watchedSeconds": 127.33,
+    "watchedPercent": 0.91,
+    "isWatched": true,
+    "videoId": "105974d1-19f1-4883-b607-5d83e02f2572"
+  },
+  {
+    "index": 151,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 225,
+    "watchedPercent": 0.95,
+    "isWatched": true,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 152,
+    "userId": "c0049763-a6a3-4a81-a836-92b4f412d39a",
+    "watchedSeconds": 8.36,
+    "watchedPercent": 0.01,
+    "isWatched": false,
+    "videoId": "7e987ac0-9ae7-4c50-8c1b-b6c42e37eae1"
+  },
+  {
+    "index": 153,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 29.69,
+    "watchedPercent": 0.02,
+    "isWatched": false,
+    "videoId": "e0103978-a5f2-4c68-9186-b5fdb7195872"
+  },
+  {
+    "index": 154,
+    "userId": "028782b9-f8c3-41e0-8536-6fab179090e7",
+    "watchedSeconds": 6.73,
+    "watchedPercent": 0.01,
+    "isWatched": false,
+    "videoId": "0af9a08c-10f2-45f7-bd50-fecc6c9634d9"
+  },
+  {
+    "index": 155,
+    "userId": "7932018e-c753-470a-870b-8252b1c3d1e8",
+    "watchedSeconds": 303.6,
+    "watchedPercent": 0.99,
+    "isWatched": true,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 156,
+    "userId": "7932018e-c753-470a-870b-8252b1c3d1e8",
+    "watchedSeconds": 1091.88,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "47cce516-abac-4ab8-8983-7d37f4002f9a"
+  },
+  {
+    "index": 157,
+    "userId": "7932018e-c753-470a-870b-8252b1c3d1e8",
+    "watchedSeconds": 229.37,
+    "watchedPercent": 0.97,
+    "isWatched": true,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 158,
+    "userId": "7932018e-c753-470a-870b-8252b1c3d1e8",
+    "watchedSeconds": 1246,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "2521b980-3a9b-467f-8ecb-0c31a05453e4"
+  },
+  {
+    "index": 159,
+    "userId": "05649e6a-f07d-4a67-86e9-d4c205b0ac02",
+    "watchedSeconds": 7.52,
+    "watchedPercent": 0.02,
+    "isWatched": false,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 160,
+    "userId": "c0049763-a6a3-4a81-a836-92b4f412d39a",
+    "watchedSeconds": 298.95,
+    "watchedPercent": 0.98,
+    "isWatched": true,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 161,
+    "userId": "c2027b1d-600c-4499-9c70-edc54b8a0de8",
+    "watchedSeconds": 196.43,
+    "watchedPercent": 0.83,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 162,
+    "userId": "f2d06e5f-0c6e-417f-ac36-25529cd8d934",
+    "watchedSeconds": 201.4,
+    "watchedPercent": 0.85,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 163,
+    "userId": "c1bf785f-9578-4e6a-a796-1a79d993bc35",
+    "watchedSeconds": 1466.66,
+    "watchedPercent": 0.98,
+    "isWatched": true,
+    "videoId": "0ca563bd-cb27-4cba-b6f3-5de02e6090a1"
+  },
+  {
+    "index": 164,
+    "userId": "c1bf785f-9578-4e6a-a796-1a79d993bc35",
+    "watchedSeconds": 23.76,
+    "watchedPercent": 0.1,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 165,
+    "userId": "8fc1fd65-e9e1-4a4c-80b1-e5c231f74859",
+    "watchedSeconds": 118.26,
+    "watchedPercent": 0.17,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 166,
+    "userId": "3398be8b-6529-497f-807f-9c9c284ae82a",
+    "watchedSeconds": 237.38,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 167,
+    "userId": "efcbb7d4-a26f-48ef-84bf-f65f2687c745",
+    "watchedSeconds": 17.67,
+    "watchedPercent": 0.03,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 168,
+    "userId": "6a9fe304-c24a-411c-ab37-665efd2deead",
+    "watchedSeconds": 47.21,
+    "watchedPercent": 0.2,
+    "isWatched": false,
+    "videoId": "05acab31-491b-498d-a7f6-7408baa417e6"
+  },
+  {
+    "index": 169,
+    "userId": "f2d06e5f-0c6e-417f-ac36-25529cd8d934",
+    "watchedSeconds": 170.98,
+    "watchedPercent": 0.43,
+    "isWatched": false,
+    "videoId": "4eb32c86-78dc-4de0-8b1b-8ac242af6eee"
+  },
+  {
+    "index": 170,
+    "userId": "f2d06e5f-0c6e-417f-ac36-25529cd8d934",
+    "watchedSeconds": 20.78,
+    "watchedPercent": 0.03,
+    "isWatched": false,
+    "videoId": "0af9a08c-10f2-45f7-bd50-fecc6c9634d9"
+  },
+  {
+    "index": 171,
+    "userId": "f2d06e5f-0c6e-417f-ac36-25529cd8d934",
+    "watchedSeconds": 7.58,
+    "watchedPercent": 0.01,
+    "isWatched": false,
+    "videoId": "0ca563bd-cb27-4cba-b6f3-5de02e6090a1"
+  },
+  {
+    "index": 172,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 304.72,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "bdd4a700-d0da-48a7-9a9b-752813bcc718"
+  },
+  {
+    "index": 173,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 3387.43,
+    "watchedPercent": 0.88,
+    "isWatched": false,
+    "videoId": "ad332cd2-c392-4965-b86d-c43c348de630"
+  },
+  {
+    "index": 174,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 151,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "59d48750-c21f-40c2-8ace-1bb08a8aa095"
+  },
+  {
+    "index": 175,
+    "userId": "6e48aaa9-8f47-4b07-b072-65063cb13338",
+    "watchedSeconds": 667.96,
+    "watchedPercent": 0.08,
+    "isWatched": false,
+    "videoId": "371fb1d1-79b1-4840-b630-707d9579f3f5"
+  },
+  {
+    "index": 176,
+    "userId": "f35b208b-baa9-45c5-b06d-26cef090dcfd",
+    "watchedSeconds": 7.48,
+    "watchedPercent": 0.02,
+    "isWatched": false,
+    "videoId": "fd065026-048a-413d-9839-9a513649ee15"
+  },
+  {
+    "index": 177,
+    "userId": "4e98e273-26fc-4e71-9c43-064b1b9df402",
+    "watchedSeconds": 5.65,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "f6b6464f-5a01-4be4-b867-7eae5591810f"
+  },
+  {
+    "index": 178,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 1877.64,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "e0103978-a5f2-4c68-9186-b5fdb7195872"
+  },
+  {
+    "index": 179,
+    "userId": "f35b208b-baa9-45c5-b06d-26cef090dcfd",
+    "watchedSeconds": 9.61,
+    "watchedPercent": 0.01,
+    "isWatched": false,
+    "videoId": "d1dc50e4-5129-41a6-ad71-afd6bb94fa79"
+  },
+  {
+    "index": 180,
+    "userId": "df699c27-0ec2-4e6d-ad5f-ce17f51fcec7",
+    "watchedSeconds": 585.89,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "1406a6a2-75f0-4caf-9a94-7e303c86f033"
+  },
+  {
+    "index": 181,
+    "userId": "9c1dcfd4-2079-4ac8-b3c4-bb9d18886270",
+    "watchedSeconds": 1123.15,
+    "watchedPercent": 0.35,
+    "isWatched": false,
+    "videoId": "814502dc-e72f-4b75-ad8e-93f9f0b0f971"
+  },
+  {
+    "index": 182,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 544.02,
+    "watchedPercent": 0.21,
+    "isWatched": false,
+    "videoId": "16a968f1-bfac-45f0-8afd-93df23180c2e"
+  },
+  {
+    "index": 183,
+    "userId": "c0049763-a6a3-4a81-a836-92b4f412d39a",
+    "watchedSeconds": 5.47,
+    "watchedPercent": 0.04,
+    "isWatched": false,
+    "videoId": "59d48750-c21f-40c2-8ace-1bb08a8aa095"
+  },
+  {
+    "index": 184,
+    "userId": "25b91922-c27d-4e32-8862-0555fddd3aa8",
+    "watchedSeconds": 82.38,
+    "watchedPercent": 0.95,
+    "isWatched": true,
+    "videoId": "9510611b-667b-4ab3-b0a9-b7ac4058b6e1"
+  },
+  {
+    "index": 185,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 156.36,
+    "watchedPercent": 0.39,
+    "isWatched": false,
+    "videoId": "4eb32c86-78dc-4de0-8b1b-8ac242af6eee"
+  },
+  {
+    "index": 186,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 44.34,
+    "watchedPercent": 0.15,
+    "isWatched": false,
+    "videoId": "1be6f6ab-6e41-455e-b12a-c306c3a1efac"
+  },
+  {
+    "index": 187,
+    "userId": "b8d26a9a-af81-4cec-abf9-1bac3101c8d0",
+    "watchedSeconds": 7.54,
+    "watchedPercent": 0.03,
+    "isWatched": false,
+    "videoId": "94ac0a07-1ff5-4a55-bb38-80f4b3d915f5"
+  },
+  {
+    "index": 188,
+    "userId": "25b91922-c27d-4e32-8862-0555fddd3aa8",
+    "watchedSeconds": 400.28,
+    "watchedPercent": 0.5,
+    "isWatched": false,
+    "videoId": "9912856d-f2f4-47a6-a161-04aea10240e8"
+  },
+  {
+    "index": 189,
+    "userId": "3d930896-731d-4759-9e43-47f1860b5478",
+    "watchedSeconds": 55.77,
+    "watchedPercent": 0.88,
+    "isWatched": false,
+    "videoId": "207dbbd1-2229-4893-ac7c-49e75abb3507"
+  },
+  {
+    "index": 190,
+    "userId": "c037192a-b67f-4a0c-b816-b37c1e91c34c",
+    "watchedSeconds": 468.1,
+    "watchedPercent": 0.59,
+    "isWatched": false,
+    "videoId": "9912856d-f2f4-47a6-a161-04aea10240e8"
+  },
+  {
+    "index": 191,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 1190.72,
+    "watchedPercent": 0.8,
+    "isWatched": false,
+    "videoId": "0ca563bd-cb27-4cba-b6f3-5de02e6090a1"
+  },
+  {
+    "index": 192,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 689.45,
+    "watchedPercent": 0.37,
+    "isWatched": false,
+    "videoId": "e0103978-a5f2-4c68-9186-b5fdb7195872"
+  },
+  {
+    "index": 193,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 613.92,
+    "watchedPercent": 0.56,
+    "isWatched": false,
+    "videoId": "47cce516-abac-4ab8-8983-7d37f4002f9a"
+  },
+  {
+    "index": 194,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 27.95,
+    "watchedPercent": 0.08,
+    "isWatched": false,
+    "videoId": "9e5b5acf-da76-4b1c-89d9-e3ba1a1f71cc"
+  },
+  {
+    "index": 195,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 57.77,
+    "watchedPercent": 0.91,
+    "isWatched": true,
+    "videoId": "207dbbd1-2229-4893-ac7c-49e75abb3507"
+  },
+  {
+    "index": 196,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 136.94,
+    "watchedPercent": 0.96,
+    "isWatched": true,
+    "videoId": "9e13c21b-234a-4346-bec0-894cd0eae3ad"
+  },
+  {
+    "index": 197,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 132.1,
+    "watchedPercent": 0.92,
+    "isWatched": false,
+    "videoId": "158d9733-37c5-4c13-acde-5be4955ffb1c"
+  },
+  {
+    "index": 198,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 47.12,
+    "watchedPercent": 0.08,
+    "isWatched": false,
+    "videoId": "fd441ebb-4d3f-4539-b247-65d457dc6e02"
+  },
+  {
+    "index": 199,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 84.17,
+    "watchedPercent": 0.97,
+    "isWatched": true,
+    "videoId": "9510611b-667b-4ab3-b0a9-b7ac4058b6e1"
+  },
+  {
+    "index": 200,
+    "userId": "904d9972-c5a9-40e5-b558-533d1f8b99c7",
+    "watchedSeconds": 6.71,
+    "watchedPercent": 0.01,
+    "isWatched": false,
+    "videoId": "fd441ebb-4d3f-4539-b247-65d457dc6e02"
+  },
+  {
+    "index": 201,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 6.37,
+    "watchedPercent": 0.02,
+    "isWatched": false,
+    "videoId": "7f1432dd-78c1-4806-a795-9d6b3163e70d"
+  },
+  {
+    "index": 202,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 60.63,
+    "watchedPercent": 0.96,
+    "isWatched": true,
+    "videoId": "207dbbd1-2229-4893-ac7c-49e75abb3507"
+  },
+  {
+    "index": 203,
+    "userId": "d2a038af-b12f-4224-a019-3ffdd3de5fef",
+    "watchedSeconds": 487.82,
+    "watchedPercent": 0.82,
+    "isWatched": false,
+    "videoId": "fd441ebb-4d3f-4539-b247-65d457dc6e02"
+  },
+  {
+    "index": 204,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 1495,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "0ca563bd-cb27-4cba-b6f3-5de02e6090a1"
+  },
+  {
+    "index": 205,
+    "userId": "4e98e273-26fc-4e71-9c43-064b1b9df402",
+    "watchedSeconds": 330.58,
+    "watchedPercent": 0.3,
+    "isWatched": false,
+    "videoId": "47cce516-abac-4ab8-8983-7d37f4002f9a"
+  },
+  {
+    "index": 206,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 9.21,
+    "watchedPercent": 0.09,
+    "isWatched": false,
+    "videoId": "bb748f46-72f6-4bbf-92be-87ae78f0ffdd"
+  },
+  {
+    "index": 207,
+    "userId": "d2a038af-b12f-4224-a019-3ffdd3de5fef",
+    "watchedSeconds": 59.28,
+    "watchedPercent": 0.94,
+    "isWatched": true,
+    "videoId": "207dbbd1-2229-4893-ac7c-49e75abb3507"
+  },
+  {
+    "index": 208,
+    "userId": "2c5f1c38-329f-431e-aae2-d254defdfdb7",
+    "watchedSeconds": 103,
+    "watchedPercent": 0.17,
+    "isWatched": false,
+    "videoId": "fd441ebb-4d3f-4539-b247-65d457dc6e02"
+  },
+  {
+    "index": 209,
+    "userId": "8febf981-b663-4120-b58d-bb2b43f117c3",
+    "watchedSeconds": 16.07,
+    "watchedPercent": 0.03,
+    "isWatched": false,
+    "videoId": "1406a6a2-75f0-4caf-9a94-7e303c86f033"
+  },
+  {
+    "index": 210,
+    "userId": "8febf981-b663-4120-b58d-bb2b43f117c3",
+    "watchedSeconds": 68.18,
+    "watchedPercent": 0.41,
+    "isWatched": false,
+    "videoId": "f5388b8e-0616-4d00-9923-e4e78cbdd941"
+  },
+  {
+    "index": 211,
+    "userId": "8febf981-b663-4120-b58d-bb2b43f117c3",
+    "watchedSeconds": 60.82,
+    "watchedPercent": 0.18,
+    "isWatched": false,
+    "videoId": "9e5b5acf-da76-4b1c-89d9-e3ba1a1f71cc"
+  },
+  {
+    "index": 212,
+    "userId": "8febf981-b663-4120-b58d-bb2b43f117c3",
+    "watchedSeconds": 280.5,
+    "watchedPercent": 0.39,
+    "isWatched": false,
+    "videoId": "0af9a08c-10f2-45f7-bd50-fecc6c9634d9"
+  },
+  {
+    "index": 213,
+    "userId": "c2627c3b-43ba-495e-ac2d-c0489ccbcdd2",
+    "watchedSeconds": 14.99,
+    "watchedPercent": 0.04,
+    "isWatched": false,
+    "videoId": "9e5b5acf-da76-4b1c-89d9-e3ba1a1f71cc"
+  },
+  {
+    "index": 214,
+    "userId": "8febf981-b663-4120-b58d-bb2b43f117c3",
+    "watchedSeconds": 286.92,
+    "watchedPercent": 0.48,
+    "isWatched": false,
+    "videoId": "fd441ebb-4d3f-4539-b247-65d457dc6e02"
+  },
+  {
+    "index": 215,
+    "userId": "c2627c3b-43ba-495e-ac2d-c0489ccbcdd2",
+    "watchedSeconds": 45.07,
+    "watchedPercent": 0.12,
+    "isWatched": false,
+    "videoId": "23ee617e-27ae-4d9a-bdb5-f73dc724f843"
+  },
+  {
+    "index": 216,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 487.1,
+    "watchedPercent": 0.33,
+    "isWatched": false,
+    "videoId": "0ca563bd-cb27-4cba-b6f3-5de02e6090a1"
+  },
+  {
+    "index": 217,
+    "userId": "25b91922-c27d-4e32-8862-0555fddd3aa8",
+    "watchedSeconds": 150.38,
+    "watchedPercent": 1,
+    "isWatched": true,
+    "videoId": "59d48750-c21f-40c2-8ace-1bb08a8aa095"
+  },
+  {
+    "index": 218,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 8.32,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "d4de9db3-6802-4432-aa86-486dedbe69f3"
+  },
+  {
+    "index": 219,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 356.73,
+    "watchedPercent": 0.6,
+    "isWatched": false,
+    "videoId": "fd441ebb-4d3f-4539-b247-65d457dc6e02"
+  },
+  {
+    "index": 220,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 51.97,
+    "watchedPercent": 0.03,
+    "isWatched": false,
+    "videoId": "4a512aec-db39-48e4-ae3e-53681dd4bfc8"
+  },
+  {
+    "index": 221,
+    "userId": "c2627c3b-43ba-495e-ac2d-c0489ccbcdd2",
+    "watchedSeconds": 279.23,
+    "watchedPercent": 0.95,
+    "isWatched": true,
+    "videoId": "9319cc72-f898-405d-bdff-1aa17ce01539"
+  },
+  {
+    "index": 222,
+    "userId": "4d8b26f7-c2fb-4c98-a845-75e81bde4b23",
+    "watchedSeconds": 33.12,
+    "watchedPercent": 0.09,
+    "isWatched": false,
+    "videoId": "23ee617e-27ae-4d9a-bdb5-f73dc724f843"
+  },
+  {
+    "index": 223,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 123.45,
+    "watchedPercent": 0.17,
+    "isWatched": false,
+    "videoId": "a4032723-7d1a-4abc-8fd6-b38b261c99ff"
+  },
+  {
+    "index": 224,
+    "userId": "8febf981-b663-4120-b58d-bb2b43f117c3",
+    "watchedSeconds": 170.45,
+    "watchedPercent": 0.24,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 225,
+    "userId": "d321b076-21fb-4c3d-92c6-23c80e2afd7b",
+    "watchedSeconds": 159.66,
+    "watchedPercent": 0.27,
+    "isWatched": false,
+    "videoId": "1406a6a2-75f0-4caf-9a94-7e303c86f033"
+  },
+  {
+    "index": 226,
+    "userId": "251d3653-a540-44d7-8ffb-2c67be510cdd",
+    "watchedSeconds": 16.74,
+    "watchedPercent": 0.07,
+    "isWatched": false,
+    "videoId": "6a08439d-8df3-41aa-94e0-8a4720acea24"
+  },
+  {
+    "index": 227,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 6.56,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "dc9549e4-a405-4868-a455-33f8c2c243fd"
+  },
+  {
+    "index": 228,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 670.59,
+    "watchedPercent": 0.26,
+    "isWatched": false,
+    "videoId": "16a968f1-bfac-45f0-8afd-93df23180c2e"
+  },
+  {
+    "index": 229,
+    "userId": "251d3653-a540-44d7-8ffb-2c67be510cdd",
+    "watchedSeconds": 6.47,
+    "watchedPercent": 0.01,
+    "isWatched": false,
+    "videoId": "ab9ae79b-2c99-45cd-93f1-3872069288b6"
+  },
+  {
+    "index": 230,
+    "userId": "df699c27-0ec2-4e6d-ad5f-ce17f51fcec7",
+    "watchedSeconds": 131.42,
+    "watchedPercent": 0.35,
+    "isWatched": false,
+    "videoId": "23ee617e-27ae-4d9a-bdb5-f73dc724f843"
+  },
+  {
+    "index": 231,
+    "userId": "c0049763-a6a3-4a81-a836-92b4f412d39a",
+    "watchedSeconds": 24.32,
+    "watchedPercent": 0.03,
+    "isWatched": false,
+    "videoId": "e6b18161-95c4-4224-ab26-cd06cc61a8f8"
+  },
+  {
+    "index": 232,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 28,
+    "watchedPercent": 0.05,
+    "isWatched": false,
+    "videoId": "fd441ebb-4d3f-4539-b247-65d457dc6e02"
+  },
+  {
+    "index": 233,
+    "userId": "c037192a-b67f-4a0c-b816-b37c1e91c34c",
+    "watchedSeconds": 587.71,
+    "watchedPercent": 0.39,
+    "isWatched": false,
+    "videoId": "0ca563bd-cb27-4cba-b6f3-5de02e6090a1"
+  },
+  {
+    "index": 234,
+    "userId": "138b9955-b29b-4ac6-a09d-41b631cc2c6c",
+    "watchedSeconds": 292.03,
+    "watchedPercent": 0.41,
+    "isWatched": false,
+    "videoId": "0af9a08c-10f2-45f7-bd50-fecc6c9634d9"
+  },
+  {
+    "index": 235,
+    "userId": "119fdb4b-f74d-4b33-a39c-ce150cd77096",
+    "watchedSeconds": 169.88,
+    "watchedPercent": 0.58,
+    "isWatched": false,
+    "videoId": "9319cc72-f898-405d-bdff-1aa17ce01539"
+  },
+  {
+    "index": 236,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 255.91,
+    "watchedPercent": 0.69,
+    "isWatched": false,
+    "videoId": "23ee617e-27ae-4d9a-bdb5-f73dc724f843"
+  },
+  {
+    "index": 237,
+    "userId": "cd90c031-a691-4cb1-b77c-dbc713c0b0e7",
+    "watchedSeconds": 7.8,
+    "watchedPercent": 0.02,
+    "isWatched": false,
+    "videoId": "23ee617e-27ae-4d9a-bdb5-f73dc724f843"
+  },
+  {
+    "index": 238,
+    "userId": "05649e6a-f07d-4a67-86e9-d4c205b0ac02",
+    "watchedSeconds": 1155.13,
+    "watchedPercent": 0.14,
+    "isWatched": false,
+    "videoId": "371fb1d1-79b1-4840-b630-707d9579f3f5"
+  },
+  {
+    "index": 239,
+    "userId": "df10c529-194d-43a0-844d-adbce1c88648",
+    "watchedSeconds": 92.13,
+    "watchedPercent": 0.89,
+    "isWatched": false,
+    "videoId": "bb748f46-72f6-4bbf-92be-87ae78f0ffdd"
+  },
+  {
+    "index": 240,
+    "userId": "14dcee5d-7593-47b3-a4f9-84650631ffaf",
+    "watchedSeconds": 746.35,
+    "watchedPercent": 0.23,
+    "isWatched": false,
+    "videoId": "814502dc-e72f-4b75-ad8e-93f9f0b0f971"
+  },
+  {
+    "index": 241,
+    "userId": "9e018275-d850-4f41-99c8-d22e7ad97fbd",
+    "watchedSeconds": 35.48,
+    "watchedPercent": 0.1,
+    "isWatched": false,
+    "videoId": "23ee617e-27ae-4d9a-bdb5-f73dc724f843"
+  },
+  {
+    "index": 242,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 108.26,
+    "watchedPercent": 0.32,
+    "isWatched": false,
+    "videoId": "9e5b5acf-da76-4b1c-89d9-e3ba1a1f71cc"
+  },
+  {
+    "index": 243,
+    "userId": "25b91922-c27d-4e32-8862-0555fddd3aa8",
+    "watchedSeconds": 1819.61,
+    "watchedPercent": 0.47,
+    "isWatched": false,
+    "videoId": "ad332cd2-c392-4965-b86d-c43c348de630"
+  },
+  {
+    "index": 244,
+    "userId": "77420fd5-d2dd-4e09-bb3c-db48aa706a10",
+    "watchedSeconds": 182.91,
+    "watchedPercent": 0.49,
+    "isWatched": false,
+    "videoId": "23ee617e-27ae-4d9a-bdb5-f73dc724f843"
+  },
+  {
+    "index": 245,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 101.13,
+    "watchedPercent": 0.67,
+    "isWatched": false,
+    "videoId": "59d48750-c21f-40c2-8ace-1bb08a8aa095"
+  },
+  {
+    "index": 246,
+    "userId": "704b21a4-a4fe-4e8e-8789-5b10476c4762",
+    "watchedSeconds": 9.89,
+    "watchedPercent": 0.01,
+    "isWatched": false,
+    "videoId": "0ca563bd-cb27-4cba-b6f3-5de02e6090a1"
+  },
+  {
+    "index": 247,
+    "userId": "f86466d9-c97a-4ae0-9e20-de8aa0aecb61",
+    "watchedSeconds": 322.46,
+    "watchedPercent": 0.54,
+    "isWatched": false,
+    "videoId": "fd441ebb-4d3f-4539-b247-65d457dc6e02"
+  },
+  {
+    "index": 248,
+    "userId": "37d1d3e2-1012-40f5-a763-16c9c7023f60",
+    "watchedSeconds": 8.07,
+    "watchedPercent": 0.01,
+    "isWatched": false,
+    "videoId": "05fb7575-2071-4688-b1d7-907027f2314a"
+  },
+  {
+    "index": 249,
+    "userId": "c2027b1d-600c-4499-9c70-edc54b8a0de8",
+    "watchedSeconds": 7.47,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "d4de9db3-6802-4432-aa86-486dedbe69f3"
+  },
+  {
+    "index": 250,
+    "userId": "f86466d9-c97a-4ae0-9e20-de8aa0aecb61",
+    "watchedSeconds": 38.93,
+    "watchedPercent": 0.37,
+    "isWatched": false,
+    "videoId": "bb748f46-72f6-4bbf-92be-87ae78f0ffdd"
+  },
+  {
+    "index": 251,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 14.13,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "dc9549e4-a405-4868-a455-33f8c2c243fd"
+  },
+  {
+    "index": 252,
+    "userId": "ef5b54e2-c447-4a71-a9a1-6e6051917e56",
+    "watchedSeconds": 6.96,
+    "watchedPercent": 0.02,
+    "isWatched": false,
+    "videoId": "4ae0b171-f870-4c9e-93ee-1c2364659e8a"
+  },
+  {
+    "index": 253,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 48.37,
+    "watchedPercent": 0.47,
+    "isWatched": false,
+    "videoId": "bb748f46-72f6-4bbf-92be-87ae78f0ffdd"
+  },
+  {
+    "index": 254,
+    "userId": "f35b208b-baa9-45c5-b06d-26cef090dcfd",
+    "watchedSeconds": 150.23,
+    "watchedPercent": 0.97,
+    "isWatched": true,
+    "videoId": "7e25dd5b-312c-4117-9829-333c3581876e"
+  },
+  {
+    "index": 255,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 4381.41,
+    "watchedPercent": 0.52,
+    "isWatched": false,
+    "videoId": "371fb1d1-79b1-4840-b630-707d9579f3f5"
+  },
+  {
+    "index": 256,
+    "userId": "6726ca85-abc8-45f4-b24e-11be77d98332",
+    "watchedSeconds": 5220.63,
+    "watchedPercent": 0.62,
+    "isWatched": false,
+    "videoId": "371fb1d1-79b1-4840-b630-707d9579f3f5"
+  },
+  {
+    "index": 257,
+    "userId": "5490ab92-14eb-40b8-9657-d5cf79f35834",
+    "watchedSeconds": 2570.7,
+    "watchedPercent": 0.96,
+    "isWatched": true,
+    "videoId": "a09e29de-3287-46d4-a5cd-3f3d81166839"
+  },
+  {
+    "index": 258,
+    "userId": "25b91922-c27d-4e32-8862-0555fddd3aa8",
+    "watchedSeconds": 6.6,
+    "watchedPercent": 0.02,
+    "isWatched": false,
+    "videoId": "23ee617e-27ae-4d9a-bdb5-f73dc724f843"
+  },
+  {
+    "index": 259,
+    "userId": "251d3653-a540-44d7-8ffb-2c67be510cdd",
+    "watchedSeconds": 16.06,
+    "watchedPercent": 0.03,
+    "isWatched": false,
+    "videoId": "7b1f51e4-1099-4d53-965c-635fb2149e96"
+  },
+  {
+    "index": 260,
+    "userId": "05649e6a-f07d-4a67-86e9-d4c205b0ac02",
+    "watchedSeconds": 993.93,
+    "watchedPercent": 0.37,
+    "isWatched": false,
+    "videoId": "a09e29de-3287-46d4-a5cd-3f3d81166839"
+  },
+  {
+    "index": 261,
+    "userId": "92a50d66-e549-4515-9f19-5c6b8658e132",
+    "watchedSeconds": 69.98,
+    "watchedPercent": 0.08,
+    "isWatched": false,
+    "videoId": "d1dc50e4-5129-41a6-ad71-afd6bb94fa79"
+  },
+  {
+    "index": 262,
+    "userId": "c2627c3b-43ba-495e-ac2d-c0489ccbcdd2",
+    "watchedSeconds": 3192.08,
+    "watchedPercent": 0.38,
+    "isWatched": false,
+    "videoId": "371fb1d1-79b1-4840-b630-707d9579f3f5"
+  },
+  {
+    "index": 263,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 198.4,
+    "watchedPercent": 0.58,
+    "isWatched": false,
+    "videoId": "9e5b5acf-da76-4b1c-89d9-e3ba1a1f71cc"
+  },
+  {
+    "index": 264,
+    "userId": "f35b208b-baa9-45c5-b06d-26cef090dcfd",
+    "watchedSeconds": 515.16,
+    "watchedPercent": 0.2,
+    "isWatched": false,
+    "videoId": "16a968f1-bfac-45f0-8afd-93df23180c2e"
+  },
+  {
+    "index": 265,
+    "userId": "f86466d9-c97a-4ae0-9e20-de8aa0aecb61",
+    "watchedSeconds": 3140.89,
+    "watchedPercent": 0.37,
+    "isWatched": false,
+    "videoId": "371fb1d1-79b1-4840-b630-707d9579f3f5"
+  },
+  {
+    "index": 266,
+    "userId": "6a9fe304-c24a-411c-ab37-665efd2deead",
+    "watchedSeconds": 3139.15,
+    "watchedPercent": 0.37,
+    "isWatched": false,
+    "videoId": "371fb1d1-79b1-4840-b630-707d9579f3f5"
+  },
+  {
+    "index": 267,
+    "userId": "c2027b1d-600c-4499-9c70-edc54b8a0de8",
+    "watchedSeconds": 10.99,
+    "watchedPercent": 0,
+    "isWatched": false,
+    "videoId": "292db9ff-3066-4ee0-ba20-f7d0ef1dd1df"
+  },
+  {
+    "index": 268,
+    "userId": "90537d48-a68e-4f0b-a26e-e000215a3c2a",
+    "watchedSeconds": 67.32,
+    "watchedPercent": 0.53,
+    "isWatched": false,
+    "videoId": "7ebf9162-05d1-4524-8c8b-19b6256396e0"
+  },
+  {
+    "index": 269,
+    "userId": "27478f01-c6d9-4367-a905-f2883cc8bc93",
+    "watchedSeconds": 2316.46,
+    "watchedPercent": 0.86,
+    "isWatched": false,
+    "videoId": "a09e29de-3287-46d4-a5cd-3f3d81166839"
+  },
+  {
+    "index": 270,
+    "userId": "27478f01-c6d9-4367-a905-f2883cc8bc93",
+    "watchedSeconds": 15.73,
+    "watchedPercent": 0.04,
+    "isWatched": false,
+    "videoId": "fd065026-048a-413d-9839-9a513649ee15"
+  },
+  {
+    "index": 271,
+    "userId": "91fc4e73-75f2-40dd-901e-63cebabf5e7d",
+    "watchedSeconds": 3219.97,
+    "watchedPercent": 0.96,
+    "isWatched": true,
+    "videoId": "dc9549e4-a405-4868-a455-33f8c2c243fd"
+  },
+  {
+    "index": 272,
+    "userId": "91fc4e73-75f2-40dd-901e-63cebabf5e7d",
+    "watchedSeconds": 161.11,
+    "watchedPercent": 0.52,
+    "isWatched": false,
+    "videoId": "cfb3469f-64d9-488f-80f1-a0cf0fef7bbd"
+  }
+]

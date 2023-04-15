@@ -1,0 +1,6 @@
+.vscode
+.idea
+.metals
+target
+.docker/gremlin-server/database/data/**/*
+!.docker/gremlin-server/database/data/**/.gitkeep

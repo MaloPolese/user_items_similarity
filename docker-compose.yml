@@ -1,0 +1,34 @@
+version: '3'
+services:
+  gremlin-server:
+    # image: tinkerpop/gremlin-server:3.6.2
+    build:
+      context: .docker/gremlin-server
+      dockerfile: Dockerfile
+    ports:
+      - "8182:8182"
+    volumes:
+      - .docker/gremlin-server/:/custom-gremlin/
+      - .docker/gremlin-server/database/data:/data
+
+  populate-console:
+    image: tinkerpop/gremlin-console:3.4.10
+    profiles:
+      - utils
+    depends_on:
+      - gremlin-server
+    volumes:
+      - .docker/gremlin-console/:/custom-gremlin/
+      - .docker/gremlin-console/conf/remote.yaml:/opt/gremlin-console/conf/remote.yaml
+    entrypoint: sh -c "sleep 5 && ulimit -n 65535 && bin/gremlin.sh -i /custom-gremlin/resources/init.groovy"
+
+  debug-console:
+    image: tinkerpop/gremlin-console:3.4.10
+    profiles:
+      - utils
+    depends_on:
+      - gremlin-server
+    volumes:
+      - .docker/gremlin-console/:/custom-gremlin/
+      - .docker/gremlin-console/conf/remote.yaml:/opt/gremlin-console/conf/remote.yaml
+    entrypoint: sh -c "ulimit -n 65535 && bin/gremlin.sh -i /custom-gremlin/resources/debug-init.groovy"
