@@ -1,7 +1,9 @@
 version: '3'
 services:
-  gremlin-server:
-    # image: tinkerpop/gremlin-server:3.6.2
+  neo4j-gremlin-server:
+    profiles:
+      - neo4j
+      - downable
     build:
       context: .docker/gremlin-server
       dockerfile: Dockerfile
@@ -11,24 +13,54 @@ services:
       - .docker/gremlin-server/:/custom-gremlin/
       - .docker/gremlin-server/database/data:/data
 
-  populate-console:
+  neo4j-populate:
     image: tinkerpop/gremlin-console:3.4.10
     profiles:
-      - utils
-    depends_on:
-      - gremlin-server
+      - manual
+      - downable
     volumes:
       - .docker/gremlin-console/:/custom-gremlin/
-      - .docker/gremlin-console/conf/remote.yaml:/opt/gremlin-console/conf/remote.yaml
-    entrypoint: sh -c "sleep 5 && ulimit -n 65535 && bin/gremlin.sh -i /custom-gremlin/resources/init.groovy"
+      - .docker/gremlin-console/conf/remote-neo4j.yaml:/opt/gremlin-console/conf/remote.yaml
+    entrypoint: sh -c "sleep 5 && ulimit -n 65535 && bin/gremlin.sh -i /custom-gremlin/resources/init-neo4j.groovy"
 
-  debug-console:
+  neo4j-debug-console:
     image: tinkerpop/gremlin-console:3.4.10
     profiles:
-      - utils
-    depends_on:
-      - gremlin-server
+      - debug
+      - downable
     volumes:
       - .docker/gremlin-console/:/custom-gremlin/
-      - .docker/gremlin-console/conf/remote.yaml:/opt/gremlin-console/conf/remote.yaml
-    entrypoint: sh -c "ulimit -n 65535 && bin/gremlin.sh -i /custom-gremlin/resources/debug-init.groovy"
+      - .docker/gremlin-console/conf/remote-neo4j.yaml:/opt/gremlin-console/conf/remote.yaml
+    entrypoint: sh -c "ulimit -n 65535 && bin/gremlin.sh -i /custom-gremlin/resources/debug-neo4j.groovy"
+
+  in-memory-gremlin-server:
+    image: tinkerpop/gremlin-server:3.6.2
+    profiles:
+      - in-memory
+      - downable
+    ports:
+      - "8182:8182"
+    volumes:
+      - .docker/gremlin-server/:/custom-gremlin/
+
+  in-memory-populate:
+    image: tinkerpop/gremlin-console:3.4.10
+    profiles:
+      - in-memory
+      - downable
+    depends_on:
+      - in-memory-gremlin-server
+    volumes:
+      - .docker/gremlin-console/:/custom-gremlin/
+      - .docker/gremlin-console/conf/remote-memory.yaml:/opt/gremlin-console/conf/remote.yaml
+    entrypoint: sh -c "sleep 5 && ulimit -n 65535 && bin/gremlin.sh -i /custom-gremlin/resources/init-in-memory.groovy"
+
+  in-memory-debug-console:
+    image: tinkerpop/gremlin-console:3.4.10
+    profiles:
+      - manual
+      - downable
+    volumes:
+      - .docker/gremlin-console/:/custom-gremlin/
+      - .docker/gremlin-console/conf/remote-memory.yaml:/opt/gremlin-console/conf/remote.yaml
+    entrypoint: sh -c "ulimit -n 65535 && bin/gremlin.sh -i /custom-gremlin/resources/debug-in-memory.groovy"

@@ -28,12 +28,12 @@ class MovieLensParser {
         videoJsonArray.each {
             def videoVertex = graph.addVertex(label, 'video', 'uid', 'v' + it.id, 'title', it.title, 'createdAt', it.createdAt, 'likes', it.likes, 'views', it.views, 'publisherId', it.publisherId)
 
-            if (!g.V().has('uid', 'u' + it.publisherId).hasNext()) {
-                return
+            if (g.V().has('uid', 'u' + it.publisherId).hasNext()) {
+                def publisherVertex = g.V().has('uid', 'u' + it.publisherId).next()
+                publisherVertex.addEdge('publisher', videoVertex)
             }
             // Add a publisher edge from the user to the video
-            def publisherVertex = g.V().has('uid', 'u' + it.publisherId).next()
-            publisherVertex.addEdge('publisher', videoVertex)
+
         }
 
         println 'Add likes'
@@ -43,14 +43,14 @@ class MovieLensParser {
         likeJsonArray.each {
             // Each items has an index, a user id, and a video id
             // For each items create an edge from the user to the video with a label of 'like'
-            if (!g.V().has('uid', 'u' + it.userId).hasNext() || !g.V().has('uid', 'v' + it.videoId).hasNext()) {
-                return
+            if (g.V().has('uid', 'u' + it.userId).hasNext() && g.V().has('uid', 'v' + it.videoId).hasNext()) {
+                def userVertex = g.V().has('uid', 'u' + it.userId).next()
+                def videoVertex = g.V().has('uid', 'v' + it.videoId).next()
+
+                def likeEdge = userVertex.addEdge('like', videoVertex)
             }
 
-            def userVertex = g.V().has('uid', 'u' + it.userId).next()
-            def videoVertex = g.V().has('uid', 'v' + it.videoId).next()
 
-            def likeEdge = userVertex.addEdge('like', videoVertex)
             // def likeVertex = graph.addVertex(label, 'like', 'uid', 'l' + it.index, 'userId', it.userId, 'videoId', it.videoId)
         }
 
@@ -60,12 +60,11 @@ class MovieLensParser {
         def viewJson = new File(dataDirectory + '/video_public_watchtime.json').text
         def viewJsonArray = new groovy.json.JsonSlurper().parseText(viewJson)
         viewJsonArray.each {
-            if (!g.V().has('uid', 'u' + it.userId).hasNext() || !g.V().has('uid', 'v' + it.videoId).hasNext()) {
-                return
+            if (g.V().has('uid', 'u' + it.userId).hasNext() && g.V().has('uid', 'v' + it.videoId).hasNext()) {
+                def userVertex = g.V().has('uid', 'u' + it.userId).next()
+                def videoVertex = g.V().has('uid', 'v' + it.videoId).next()
+                def viewEdge = userVertex.addEdge('watchtime', videoVertex, 'watchedSeconds', it.watchedSeconds.toDouble(), 'watchedPercent', it.watchedPercent.toDouble(), 'isWatched', it.isWatched)
             }
-            def userVertex = g.V().has('uid', 'u' + it.userId).next()
-            def videoVertex = g.V().has('uid', 'v' + it.videoId).next()
-            def viewEdge = userVertex.addEdge('watchtime', videoVertex, 'watchedSeconds', it.watchedSeconds.toDouble(), 'watchedPercent', it.watchedPercent.toDouble(), 'isWatched', it.isWatched)
 
 
             // def viewVertex = graph.addVertex(label, 'watchtime', 'uid', 'w' + it.index, 'userId', it.userId, 'videoId', it.videoId, 'watchedSeconds', it.watchedSeconds, 'watchedPercent', it.watchedPercent, 'isWatched', it.isWatched)

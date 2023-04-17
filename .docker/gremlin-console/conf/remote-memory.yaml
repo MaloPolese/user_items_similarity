@@ -1,0 +1,7 @@
+hosts: [in-memory-gremlin-server]
+port: 8182
+serializer:
+  {
+    className: org.apache.tinkerpop.gremlin.driver.ser.GraphBinaryMessageSerializerV1,
+    config: { serializeResultToString: true },
+  }
