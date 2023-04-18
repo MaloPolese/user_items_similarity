@@ -1,0 +1,4 @@
+gremlin:
+  host: localhost
+  port: 8182
+  remoteTraversalSource: g
