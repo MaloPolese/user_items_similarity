@@ -1,4 +1,4 @@
-package fr.malopolese.recommendation.configuration
+package com.mpolese.recommendation.configuration
 
 import org.springframework.boot.context.properties.ConfigurationProperties
 

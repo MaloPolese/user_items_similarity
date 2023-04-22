@@ -10,7 +10,6 @@ g.E().drop().iterate()
 :load /custom-gremlin/resources/main.groovy
 MovieLensParser.load(g.graph,'/custom-gremlin/resources/data')
 
-
 g.tx().commit()
 
 :quit

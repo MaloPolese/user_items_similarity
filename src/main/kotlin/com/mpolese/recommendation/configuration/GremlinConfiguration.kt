@@ -1,4 +1,4 @@
-package fr.malopolese.recommendation.configuration
+package com.mpolese.recommendation.configuration
 
 import org.apache.tinkerpop.gremlin.driver.remote.DriverRemoteConnection
 import org.apache.tinkerpop.gremlin.process.traversal.AnonymousTraversalSource

@@ -18,7 +18,7 @@ class MovieLensParser {
         def userJson = new File(dataDirectory + '/video_public_user.json').text
         def userJsonArray = new groovy.json.JsonSlurper().parseText(userJson)
         userJsonArray.each {
-            def userVertex = graph.addVertex(label, 'user', 'uid', 'u' + it.userId, "firstName", it.firstName, "lastName", it.lastName)
+            def userVertex = graph.addVertex(label, 'user', 'uid', it.userId, "firstName", it.firstName, "lastName", it.lastName)
         }
 
         println "Add Videos"
@@ -26,14 +26,12 @@ class MovieLensParser {
         def videoJson = new File(dataDirectory + '/video_public_video.json').text
         def videoJsonArray = new groovy.json.JsonSlurper().parseText(videoJson)
         videoJsonArray.each {
-            def videoVertex = graph.addVertex(label, 'video', 'uid', 'v' + it.id, 'title', it.title, 'createdAt', it.createdAt, 'likes', it.likes, 'views', it.views, 'publisherId', it.publisherId)
+            def videoVertex = graph.addVertex(label, 'video', 'uid', it.id, 'title', it.title, 'createdAt', it.createdAt, 'likes', it.likes, 'views', it.views, 'publisherId', it.publisherId)
 
-            if (g.V().has('uid', 'u' + it.publisherId).hasNext()) {
-                def publisherVertex = g.V().has('uid', 'u' + it.publisherId).next()
+            if (g.V().has('uid', it.publisherId).hasNext()) {
+                def publisherVertex = g.V().has('uid', it.publisherId).next()
                 publisherVertex.addEdge('publisher', videoVertex)
             }
-            // Add a publisher edge from the user to the video
-
         }
 
         println 'Add likes'
@@ -43,15 +41,12 @@ class MovieLensParser {
         likeJsonArray.each {
             // Each items has an index, a user id, and a video id
             // For each items create an edge from the user to the video with a label of 'like'
-            if (g.V().has('uid', 'u' + it.userId).hasNext() && g.V().has('uid', 'v' + it.videoId).hasNext()) {
-                def userVertex = g.V().has('uid', 'u' + it.userId).next()
-                def videoVertex = g.V().has('uid', 'v' + it.videoId).next()
+            if (g.V().has('uid', it.userId).hasNext() && g.V().has('uid', it.videoId).hasNext()) {
+                def userVertex = g.V().has('uid', it.userId).next()
+                def videoVertex = g.V().has('uid', it.videoId).next()
 
                 def likeEdge = userVertex.addEdge('like', videoVertex)
             }
-
-
-            // def likeVertex = graph.addVertex(label, 'like', 'uid', 'l' + it.index, 'userId', it.userId, 'videoId', it.videoId)
         }
 
         println 'Add views'
@@ -60,21 +55,18 @@ class MovieLensParser {
         def viewJson = new File(dataDirectory + '/video_public_watchtime.json').text
         def viewJsonArray = new groovy.json.JsonSlurper().parseText(viewJson)
         viewJsonArray.each {
-            if (g.V().has('uid', 'u' + it.userId).hasNext() && g.V().has('uid', 'v' + it.videoId).hasNext()) {
-                def userVertex = g.V().has('uid', 'u' + it.userId).next()
-                def videoVertex = g.V().has('uid', 'v' + it.videoId).next()
+            if (g.V().has('uid', it.userId).hasNext() && g.V().has('uid', it.videoId).hasNext()) {
+                def userVertex = g.V().has('uid',  it.userId).next()
+                def videoVertex = g.V().has('uid', it.videoId).next()
                 def viewEdge = userVertex.addEdge('watchtime', videoVertex, 'watchedSeconds', it.watchedSeconds.toDouble(), 'watchedPercent', it.watchedPercent.toDouble(), 'isWatched', it.isWatched)
             }
-
-
-            // def viewVertex = graph.addVertex(label, 'watchtime', 'uid', 'w' + it.index, 'userId', it.userId, 'videoId', it.videoId, 'watchedSeconds', it.watchedSeconds, 'watchedPercent', it.watchedPercent, 'isWatched', it.isWatched)
         }
 
     }
 
     public static void load(final Graph graph, final String dataDirectory) {
         println 'Start'
-       // TinkerPop dependent.. should be a factory for crossImplementation use.
+        // TinkerPop dependent.. should be a factory for crossImplementation use.
         // graph.createIndex('uid', Vertex.class) 
         def start = System.currentTimeMillis()
         parse(graph, dataDirectory)

@@ -1,10 +1,10 @@
-package fr.malopolese.recommendation
+package com.mpolese.recommendation
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class RecommenderApplicationTests {
+class RecommendationApplicationTests {
 
 	@Test
 	fun contextLoads() {

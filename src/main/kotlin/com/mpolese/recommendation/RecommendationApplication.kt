@@ -1,4 +1,4 @@
-package fr.malopolese.recommendation
+package com.mpolese.recommendation
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.context.properties.ConfigurationPropertiesScan
